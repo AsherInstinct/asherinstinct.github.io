@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/profile.jpg # 대표 이미지넣는 곳입니다. /asset/img 경로에 사진을 넣으면 됩니다.
+avatar: "/commons/avatar.jpg" # 대표 이미지넣는 곳입니다. /asset/img 경로에 사진을 넣으면 됩니다.
 
 # boolean type, the global switch for TOC in posts.
 toc: true
