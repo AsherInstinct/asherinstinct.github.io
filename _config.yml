@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 title: AsherInstinct # 블로그 이름
 
-tagline: A text-focused Jekyll theme # 서브타이틀. 블로그 첫페이지 좌측에서 확인가능합니다.
+tagline: 안녕하세요. 데이터분석가를 꿈꾸는 Asher입니다. # 서브타이틀. 블로그 첫페이지 좌측에서 확인가능합니다.
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg" # 대표 이미지넣는 곳입니다. /asset/img 경로에 사진을 넣으면 됩니다.
+avatar: /assets/img/profile.jpg # 대표 이미지넣는 곳입니다. /asset/img 경로에 사진을 넣으면 됩니다.
 
 # boolean type, the global switch for TOC in posts.
 toc: true
